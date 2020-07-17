@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 30 13:41:30 2020
-@author: DELL
-"""
+
 
 from flask import Flask , render_template , request
 import pickle
